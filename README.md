@@ -8,7 +8,7 @@
   <li><b>Nama:</b> Najla Putri Kaliandra Sabilillah</li>
   <li><b>Project Type:</b> Fullstack Web Application</li>
   <li><b>Architecture:</b> MVC (Model-View-Controller)</li>
-  <li><b>Ini sengaja nih ga saya kasih DATABASE nya, karna jantung project ini ada di DATABASE nya. kalau mau DB nya DM saya di LinkedIn biar dapat akses full</li>
+  <li>Ini sengaja nih ga saya kasih <b>DATABASE nya</b>, karna jantung project ini ada di <b>DATABASE</b>. kalau mau <b>DATABASE</b> DM saya di LinkedIn biar dapat akses full</li>
 </ul>
 
 <hr>
